@@ -1,6 +1,7 @@
 import os
 import pickle
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 from mlxtend.data import loadlocal_mnist
 from sklearn.linear_model import LogisticRegression
